@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
-import 'package:gamepad/widigts/fourbutton.dart';
-import 'package:gamepad/widigts/screen.dart';
+import 'package:flutterapp/widigts/fourbutton.dart';
+import 'package:flutterapp/widigts/screen.dart';
 import 'dart:convert';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
 import 'package:flutter/cupertino.dart';
